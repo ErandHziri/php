@@ -3,7 +3,7 @@
 <body>
 <h1>Mt first PHP page</h1>
 <?php
-    echo "Hello World":
+    echo "Hello World";
 ?>
 
 </body>

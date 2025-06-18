@@ -10,8 +10,8 @@
 
     for($row=0;$row<3;$row++){
         echo "<p><b>Row number $row </b></p>";
-        echo <ul>;
-        for($col=0;$col;<3;$col++){
+        echo '<ul>';
+        for($col=0;$col<3;$col++){
             echo "<li>" .$dog[$row][$col]. "</li>";
         }
         "</ul>";

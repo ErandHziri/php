@@ -44,7 +44,7 @@
     );
      for($row=0;$row<4;$row++){
         echo "<tr>";
-          for($col=0;$col;<3;$col++){
+          for($col=0;$col<3;$col++){
             echo "<td>". $phone[$row][$col]. "</td>";
      }
 
